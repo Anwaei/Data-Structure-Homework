@@ -1,2 +1,2 @@
 # Data-Structure-Homework
-# The end of the term is HELL
+The end of the term is HELL
